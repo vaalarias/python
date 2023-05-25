@@ -16,6 +16,9 @@ CATEGORY
 
 
 '''
+# Libreria necesaria para paso de argumentos
+import sys
+
 # Se define función encargada de realicar el cálculo de porcentaje
 def calcular_porcentajes(secuencia_dna):
 
@@ -40,8 +43,8 @@ def calcular_porcentajes(secuencia_dna):
 
 # Se introduce el código en un bloque try para hacer validaciones y manejo de excepciones en las partes del código que puedan ser problemáticas
 try:
-    # Se le pide al usuario que ingrese la ruta donde se encuentre el archivo con la secuencia de ADN
-    path = input('Ingrese la ruta al archivo: ')
+    # La ruta del archivo no se solicita como input, sino que se toma el primer argumento.
+    path = sys.argv[1]
 
     # Abrir el archivo
     dna = open(path).read().rstrip('\n')
