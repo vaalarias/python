@@ -29,14 +29,6 @@ Breve descripción del programa: Este programa calcula el porcentaje de nucleót
 - El archivo debe contener únicamente caracteres válidos de ADN (A, T, G, C).
 - El archivo debe tener una única secuencia de ADN sin espacios, saltos de línea u otros caracteres adicionales.
 
-## Contribución
-Si deseas contribuir a este programa, puedes seguir estos pasos:
-1. Fork el repositorio desde [enlace al repositorio].
-2. Realiza tus modificaciones o mejoras en una rama separada.
-3. Asegúrate de escribir pruebas para las nuevas funcionalidades o modificaciones.
-4. Envía un Pull Request con tus cambios.
-5. Proporciona una descripción detallada de tus cambios y el motivo de los mismos.
-
 ## Notas
 - Este programa está diseñado para analizar secuencias de ADN específicamente. Asegúrate de proporcionar un archivo válido con una secuencia de ADN para obtener resultados precisos.
 - Si experimentas algún problema o tienes alguna pregunta, no dudes en comunicarte con el equipo de desarrollo.
