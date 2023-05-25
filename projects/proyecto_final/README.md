@@ -10,7 +10,7 @@ Este programa calcula el porcentaje de nucleótidos AT y GC en una secuencia de 
 - Acceso de lectura al archivo de secuencia de ADN.
 
 ## Instalación
-1. Descarga el archivo del programa desde [enlace al archivo del programa].
+1. Descarga el archivo del programa desde [https://github.com/vaalarias/python1/tree/master/projects/proyecto_final].
 2. Descomprime el archivo en la ubicación deseada.
 
 ## Uso
