@@ -15,14 +15,22 @@ DESCRIPTION
 CATEGORY
     Nucleotide percentage
 
-
-
 '''
 # Libreria necesaria para paso de argumentos
 import sys
 
 # Se define función encargada de realicar el cálculo de porcentaje
 def calcular_porcentajes(secuencia_dna):
+    '''
+    NAME 
+        calcular_porcentajes
+
+    FUNCTION
+        crea un diccionario para que se guarde el conteo total por caracter válido, después hace un cálculo del porcentaje
+    
+    ARGUMENTS
+        Requiere cadena de dna.
+    '''
 
     # Definimos un diccionario que almacenará el conteo de cada nucleótido
     conteo_nucleotidos = {'A': 0, 'T': 0, 'G': 0, 'C': 0}
