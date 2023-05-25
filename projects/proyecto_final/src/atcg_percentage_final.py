@@ -1,18 +1,20 @@
 '''
 TITLE
-    atgc_percentage.py
+    atgc_percentage_final.py
 
 VERSION 
     1.2
 
 AUTHOR
     Valentina Janet Arias Ojeda
+    Email: vjarias@lcg.unam.mx
 
 DESCRIPTION
     Dada una secuencia de DNA, el programa identificará el número de ocurrencias de As, Gs, Ts, y Cs para posteriormente sacar el porcentage de AT y GC en la secuencia.
 
 CATEGORY
     Nucleotide percentage
+
 
 
 '''

@@ -1,6 +1,6 @@
 # Proyecto final. Python: Porcentaje de AT y GC
 ## Valentina Janet Arias Ojeda
-## Fecha
+## FECHA
 
 ## Descripción
 Breve descripción del programa: Este programa calcula el porcentaje de nucleótidos AT y GC en una secuencia de ADN a partir de un archivo proporcionado por el usuario.
