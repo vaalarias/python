@@ -1,4 +1,4 @@
-
+# Definir función
 def translate_rna(rna_string):
     gen_code = {
     'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M', 'ACA':'T', 

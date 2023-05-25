@@ -40,6 +40,3 @@ gc = ((guaninas + citosinas) / total) * 100
 # Impresión de resultados
 print("El porcentaje de AT es:", at)
 print("El porcentaje de GC es:", gc)
-
-# Todo archivo se debe cerrar
-dna.close()
