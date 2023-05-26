@@ -22,6 +22,41 @@ En el main:
    - Si no es un empate, se evalúan las combinaciones posibles para determinar al ganador.
 5. Se muestra el resultado por pantalla, indicando quién ganó o si fue un empate.
 
-### Resultados
+### Instalación
 
-Durante el desarrollo de este programa se repasaron los temas vistos en clase como funciones, ciclos y condicionales para crear un juego interactivo. Estas herramientas son fundamentales en la programación, ya que nos ayudan a estructurar y controlar el flujo de ejecución del programa de manera eficiente y efectiva.
+El programa solo requiere python, te recomendamos instalar la última versión.
+
+### Ejemplos
+
+Caso 1. El usuario da la opción papel, y la computadora papel. Debe aparecer un resultado de empate.
+
+
+```
+¿Cómo te llamas?: hely
+Ok, hely, teclea tu opción (Recuerda que puedes elegir piedra, papel o tijera):
+papel
+
+papel: papel
+Computadora: papel
+
+Es un empate!!!!
+
+```
+
+CAso 2. El usuario escoge tijera y la computadora piedra, debe aparecer que el usuario perdió.
+
+
+```
+Este es el juego de piedra, papel o tijera.
+¿Cómo te llamas?: hely  
+Ok, hely, teclea tu opción (Recuerda que puedes elegir piedra, papel o tijera):
+tijera
+
+tijera: tijera
+Computadora: piedra
+
+Perdiste!
+
+```
+
+
