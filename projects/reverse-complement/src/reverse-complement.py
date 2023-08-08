@@ -3,7 +3,7 @@ NAME
 	reverse-complement.py
     
 VERSION
-    1.0 
+    1.0
     
 AUTHOR
 	Valentina Arias Ojeda
@@ -12,7 +12,7 @@ DESCRIPTION
 	Make the reverse complement of DNA sequence
     
 CATEGORY
-	Genomic Sequence
+	Genomic Sequenceee
     
 USAGE
 
