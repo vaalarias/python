@@ -1,4 +1,4 @@
-# Tarea 3. Python: Manejo de secuencias
+# Tarea 6. BioPython: Manejo de secuencias
 ## Valentina Janet Arias Ojeda
 ###  Introducción
 
