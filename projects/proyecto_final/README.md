@@ -30,4 +30,4 @@ Este programa calcula el porcentaje de nucleótidos AT y GC en una secuencia de 
 
 ## Notas
 - Este programa está diseñado para analizar secuencias de ADN específicamente. Asegúrate de proporcionar un archivo válido con una secuencia de ADN para obtener resultados precisos.
-- Si experimentas algún problema o tienes alguna pregunta, no dudes en comunicarte con el equipo de desarrollo al email vjarias@lcg.unam.mx
+- Si experimentas algún problema o tienes alguna pregunta, comunícate al email vjarias@lcg.unam.mx
