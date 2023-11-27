@@ -1,6 +1,10 @@
-# python1
+# Python course
  _Author: Valentina Arias_
-## Introducción 
- Repositorio donde se guardarán y subirán las tareas, ejercicios y trabajos del curso Programación en Python.
-## Descripción
- Las carpetas están organizadas para dividir las clases de las tareas; cada una con su respectivas carpetas de resultados, programa y extras.
+## Overview 
+ This repository houses assignments and projects designed to enhance your understanding of Python programming in the context of genomic analysis using Biopython.
+## Contents
+- Classes: Tasks and projects are organized by classes, each with their respective folders for results, programs, and additional materials.
+- Tasks: Contains Python exercises focusing on different concepts like data manipulation, algorithms, and more.
+- Projects: Larger-scale assignments where you can apply Python and Biopython to solve specific genomic challenges.
+## Language (material)
+ Spanish
