@@ -1,4 +1,4 @@
-# Python course
+# Python course repository
  _Author: Valentina Arias_
 ## Overview 
  This repository houses assignments and projects designed to enhance your understanding of Python programming in the context of genomic analysis using Biopython.
